@@ -1,5 +1,3 @@
-"This project demonstrates Association Rule Mining using the Apriori algorithm in Python. I implemented a market basket analysis by identifying frequent itemsets and deriving association rules with defined support and confidence thresholds. This hands-on project helped me understand unsupervised learning, data preprocessing, and pattern discovery in retail datasets using mlxtend and pandas."
-
 # 🧺"Discovering Product Patterns: Apriori-based Rule Mining"
 
 ## 🔍 Overview
